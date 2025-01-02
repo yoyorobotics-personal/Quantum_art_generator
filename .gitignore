@@ -1,0 +1,19 @@
+# Virtual environment
+quantum_art_env/
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.log
+*.tmp

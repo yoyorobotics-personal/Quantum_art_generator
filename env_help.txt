@@ -1,0 +1,5 @@
+Activate Your Virtual Environment
+quantum_art_env\Scripts\activate.bat
+Check and install
+pip list | findstr qiskit
+
